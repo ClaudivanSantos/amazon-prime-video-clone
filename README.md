@@ -9,7 +9,7 @@
 
 ## 📫 Visualização do projeto
 
-<img size='30%' src=".github/amazon-prime-video.png" alt="screen" border="0">
+<img height="40" width="50" src=".github/amazon-prime-video.png" alt="screen" border="0">
 
 ## 💻 Projeto
 O projeto foi criado inspirado no app Amazon Prime Video
