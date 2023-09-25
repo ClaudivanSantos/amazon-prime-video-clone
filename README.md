@@ -2,14 +2,13 @@
 🚀 Amazon Prime Video Clone
 </h1>
 
-<p>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 ## 📫 Visualização do projeto
 
-<img height="500px" width="200px" src=".github/amazon-prime-video.png" alt="screen" border="0">
+<img height="50%" width="50%" src=".github/amazon-prime-video.png" alt="screen" border="0">
 
 ## 💻 Projeto
 O projeto foi criado inspirado no app Amazon Prime Video
